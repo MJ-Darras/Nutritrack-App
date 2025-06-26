@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title_activity_login_screen">Login_Screen</string>
+    <string name="title_activity_food_intake">Food_Intake</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="prompt_placeholder"> </string>
+    <string name="results_placeholder"> </string>
+    <string name="basic_prompt">
+        Generate a short encouraging message to help someone improve their fruit intake.
+    </string>
+</resources>
